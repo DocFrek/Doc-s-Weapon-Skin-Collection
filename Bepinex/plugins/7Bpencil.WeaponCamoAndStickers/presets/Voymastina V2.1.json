@@ -1,7 +1,7 @@
 [
   {
-    "SchemaVersion": 7,
-    "SaveTime": 1782834230587,
+    "SchemaVersion": 8,
+    "SaveTime": 1784887859854,
     "Name": "",
     "Texture": "builtin/camos/default.png",
     "TextureUV": {
@@ -43,11 +43,12 @@
     "MaxAngle": 0.505,
     "IsVisible": true,
     "MirrorMode": "Enabled",
-    "PaintMode": "Erase"
+    "PaintMode": "Erase",
+    "StencilType": 2
   },
   {
-    "SchemaVersion": 7,
-    "SaveTime": 1782834230587,
+    "SchemaVersion": 8,
+    "SaveTime": 1784887859854,
     "Name": "",
     "Texture": "builtin/camos/default.png",
     "TextureUV": {
@@ -89,11 +90,12 @@
     "MaxAngle": 0.505,
     "IsVisible": true,
     "MirrorMode": "Disabled",
-    "PaintMode": "Erase"
+    "PaintMode": "Erase",
+    "StencilType": 2
   },
   {
-    "SchemaVersion": 7,
-    "SaveTime": 1782834230587,
+    "SchemaVersion": 8,
+    "SaveTime": 1784887859854,
     "Name": "",
     "Texture": "builtin/camos/default.png",
     "TextureUV": {
@@ -135,11 +137,12 @@
     "MaxAngle": 0.505,
     "IsVisible": true,
     "MirrorMode": "Disabled",
-    "PaintMode": "Erase"
+    "PaintMode": "Erase",
+    "StencilType": 2
   },
   {
-    "SchemaVersion": 7,
-    "SaveTime": 1782834199180,
+    "SchemaVersion": 8,
+    "SaveTime": 1784887859854,
     "Name": "",
     "Texture": "builtin/camos/default.png",
     "TextureUV": {
@@ -181,11 +184,12 @@
     "MaxAngle": 0.4,
     "IsVisible": true,
     "MirrorMode": "Disabled",
-    "PaintMode": "Erase"
+    "PaintMode": "Erase",
+    "StencilType": 2
   },
   {
-    "SchemaVersion": 7,
-    "SaveTime": 1782834083391,
+    "SchemaVersion": 8,
+    "SaveTime": 1784887859854,
     "Name": "",
     "Texture": "builtin/camos/default.png",
     "TextureUV": {
@@ -227,11 +231,12 @@
     "MaxAngle": 0.0,
     "IsVisible": true,
     "MirrorMode": "Disabled",
-    "PaintMode": "Paint"
+    "PaintMode": "Paint",
+    "StencilType": 2
   },
   {
-    "SchemaVersion": 7,
-    "SaveTime": 1782834083391,
+    "SchemaVersion": 8,
+    "SaveTime": 1784887859854,
     "Name": "",
     "Texture": "builtin/camos/default.png",
     "TextureUV": {
@@ -273,13 +278,14 @@
     "MaxAngle": 0.0,
     "IsVisible": true,
     "MirrorMode": "Disabled",
-    "PaintMode": "Paint"
+    "PaintMode": "Paint",
+    "StencilType": 2
   },
   {
-    "SchemaVersion": 7,
-    "SaveTime": 1782834083391,
+    "SchemaVersion": 8,
+    "SaveTime": 1784887859854,
     "Name": "",
-    "Texture": "stickers/7Bpencil/AK-15 Voymastina/VoyTerminator.png",
+    "Texture": "stickers/DocFrek/AK-15 Voymastina/VoyTerminator.png",
     "TextureUV": {
       "x": 0.0,
       "y": 0.0,
@@ -314,16 +320,17 @@
     "LocalScale": {
       "x": 0.143961,
       "y": 0.04,
-      "z": 0.205035388
+      "z": 0.205035374
     },
     "MaxAngle": 0.5,
     "IsVisible": true,
     "MirrorMode": "Disabled",
-    "PaintMode": "Paint"
+    "PaintMode": "Paint",
+    "StencilType": 2
   },
   {
-    "SchemaVersion": 7,
-    "SaveTime": 1782834083391,
+    "SchemaVersion": 8,
+    "SaveTime": 1784887859854,
     "Name": "",
     "Texture": "camos/7Bpencil/332c5dbb943b995611633e6beb0d1a0e.png",
     "TextureUV": {
@@ -365,11 +372,12 @@
     "MaxAngle": 0.0,
     "IsVisible": true,
     "MirrorMode": "Enabled",
-    "PaintMode": "Paint"
+    "PaintMode": "Paint",
+    "StencilType": 2
   },
   {
-    "SchemaVersion": 7,
-    "SaveTime": 1782834083391,
+    "SchemaVersion": 8,
+    "SaveTime": 1784887859854,
     "Name": "",
     "Texture": "camos/7Bpencil/332c5dbb943b995611633e6beb0d1a0e.png",
     "TextureUV": {
@@ -411,11 +419,12 @@
     "MaxAngle": 0.0,
     "IsVisible": true,
     "MirrorMode": "Enabled",
-    "PaintMode": "Paint"
+    "PaintMode": "Paint",
+    "StencilType": 2
   },
   {
-    "SchemaVersion": 7,
-    "SaveTime": 1782834083391,
+    "SchemaVersion": 8,
+    "SaveTime": 1784887859854,
     "Name": "",
     "Texture": "camos/7Bpencil/332c5dbb943b995611633e6beb0d1a0e.png",
     "TextureUV": {
@@ -457,11 +466,12 @@
     "MaxAngle": 0.0,
     "IsVisible": true,
     "MirrorMode": "Enabled",
-    "PaintMode": "Paint"
+    "PaintMode": "Paint",
+    "StencilType": 2
   },
   {
-    "SchemaVersion": 7,
-    "SaveTime": 1782834083391,
+    "SchemaVersion": 8,
+    "SaveTime": 1784887859854,
     "Name": "",
     "Texture": "camos/7Bpencil/332c5dbb943b995611633e6beb0d1a0e.png",
     "TextureUV": {
@@ -503,11 +513,12 @@
     "MaxAngle": 0.0,
     "IsVisible": true,
     "MirrorMode": "Enabled",
-    "PaintMode": "Paint"
+    "PaintMode": "Paint",
+    "StencilType": 2
   },
   {
-    "SchemaVersion": 7,
-    "SaveTime": 1782834083391,
+    "SchemaVersion": 8,
+    "SaveTime": 1784887859854,
     "Name": "",
     "Texture": "camos/7Bpencil/332c5dbb943b995611633e6beb0d1a0e.png",
     "TextureUV": {
@@ -549,13 +560,14 @@
     "MaxAngle": 0.0,
     "IsVisible": true,
     "MirrorMode": "Enabled",
-    "PaintMode": "Paint"
+    "PaintMode": "Paint",
+    "StencilType": 2
   },
   {
-    "SchemaVersion": 7,
-    "SaveTime": 1782834083391,
+    "SchemaVersion": 8,
+    "SaveTime": 1784887859854,
     "Name": "",
-    "Texture": "stickers/7Bpencil/AK-15 Voymastina/voyfull.png",
+    "Texture": "stickers/DocFrek/AK-15 Voymastina/voyfull.png",
     "TextureUV": {
       "x": 0.0,
       "y": 0.0,
@@ -595,13 +607,14 @@
     "MaxAngle": 0.5,
     "IsVisible": true,
     "MirrorMode": "Disabled",
-    "PaintMode": "Paint"
+    "PaintMode": "Paint",
+    "StencilType": 2
   },
   {
-    "SchemaVersion": 7,
-    "SaveTime": 1782834083391,
+    "SchemaVersion": 8,
+    "SaveTime": 1784887859854,
     "Name": "",
-    "Texture": "stickers/7Bpencil/AK-15 Voymastina/voychibi1.png",
+    "Texture": "stickers/DocFrek/AK-15 Voymastina/voychibi1.png",
     "TextureUV": {
       "x": 0.0,
       "y": 0.0,
@@ -641,6 +654,7 @@
     "MaxAngle": 0.5,
     "IsVisible": true,
     "MirrorMode": "Disabled",
-    "PaintMode": "Paint"
+    "PaintMode": "Paint",
+    "StencilType": 2
   }
 ]
