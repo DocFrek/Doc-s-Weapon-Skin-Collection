@@ -1,4 +1,4 @@
-## Image Tabset {.tabset}
+## MY PERSONAL WEAPON SKIN COLLECTION
 ### Overview
 #### A collection of weapon skins and stickers that I made while playing SPT.
 
@@ -26,13 +26,10 @@ Thus, I suggest that you get most of the weapon and attachments mods available o
 ![UMPspreview](https://raw.githubusercontent.com/DocFrek/Doc-s-Weapon-Skin-Collection/main/screenshotstash/UMPSPreview.png)
 ![rackpreview](https://raw.githubusercontent.com/DocFrek/Doc-s-Weapon-Skin-Collection/main/screenshotstash/weaponrack.png)
 
-{.endtabset}
 
 ---
 
 ## The Skins
-
-## Image Tabset {.tabset}
 
 ### SOPPO
 **Colt M4A1 5.56x45 assault rifle (SOPMOD II)**
@@ -146,8 +143,6 @@ Thus, I suggest that you get most of the weapon and attachments mods available o
 [belka1]: https://raw.githubusercontent.com/DocFrek/Doc-s-Weapon-Skin-Collection/main/screenshotstash/BELKA1.png 'BELKA1'
 [peritya2]: https://raw.githubusercontent.com/DocFrek/Doc-s-Weapon-Skin-Collection/main/screenshotstash/PERITYA2.png 'PERITYA2'
 [belka2]: https://raw.githubusercontent.com/DocFrek/Doc-s-Weapon-Skin-Collection/main/screenshotstash/BELKA2.png 'BELKA2'
-
-{.endtabset}
 
 ---
 #### Weapon Builds
