@@ -87,6 +87,35 @@ Thus, I suggest that you get most of the weapon and attachments mods available o
 **HK MP7A1 4.6x30 submachine gun**
 ![Alt text][cheeta]
 
+### MISIA
+
+**Barret M107A1 .50 BMG anti-material rifle**
+![Alt text][misia1]
+![Alt text][misia2]
+
+### NADYA PANDORA
+
+**Kalashnikov RPK-16 5.45x39 light machine gun**
+![Alt text][nadya1]
+![Alt text][nadya2]
+
+### CHEYANNE
+
+**CheyTac M200 Intervention .408 CT bolt-action sniper rifle (FDE)**
+![Alt text][cheyanne]
+![Alt text][cheyanneblk]
+
+### PERITYA
+
+**Kalashnikov PKP 7.62x54R infantry machine gun**
+![Alt text][peritya1]
+![Alt text][peritya2]
+
+### BELKA
+
+**HK G28 7.62x51 marksman rifle**
+![Alt text][belka1]
+![Alt text][belka2]
 
 [soppo]: https://raw.githubusercontent.com/DocFrek/Doc-s-Weapon-Skin-Collection/main/screenshotstash/SOPPO.png 'SOPPO'
 [leva]: https://raw.githubusercontent.com/DocFrek/Doc-s-Weapon-Skin-Collection/main/screenshotstash/LEVA.png 'LEVA'
@@ -99,6 +128,16 @@ Thus, I suggest that you get most of the weapon and attachments mods available o
 [voy1]: https://raw.githubusercontent.com/DocFrek/Doc-s-Weapon-Skin-Collection/main/screenshotstash/VOYMASTINA1.png 'VOYMASTINA1'
 [voy2]: https://raw.githubusercontent.com/DocFrek/Doc-s-Weapon-Skin-Collection/main/screenshotstash/VOYMASTINA2.png 'VOYMASTINA2'
 [exu]: https://raw.githubusercontent.com/DocFrek/Doc-s-Weapon-Skin-Collection/main/screenshotstash/EXUSIAI.png 'EXUSIAI'
+[cheyanne]: https://raw.githubusercontent.com/DocFrek/Doc-s-Weapon-Skin-Collection/main/screenshotstash/CHEYANNE1.png 'CHEYANNE'
+[cheyanneblk]: https://raw.githubusercontent.com/DocFrek/Doc-s-Weapon-Skin-Collection/main/screenshotstash/CHEYANNE2.png 'CHEYANNEBLK'
+[misia1]: https://raw.githubusercontent.com/DocFrek/Doc-s-Weapon-Skin-Collection/main/screenshotstash/MISIA1.png 'MISIA1'
+[misia2]: https://raw.githubusercontent.com/DocFrek/Doc-s-Weapon-Skin-Collection/main/screenshotstash/MISIA2.png 'MISIA2'
+[nadya1]: https://raw.githubusercontent.com/DocFrek/Doc-s-Weapon-Skin-Collection/main/screenshotstash/NADYA1.png 'NADYA1'
+[nadya1]: https://raw.githubusercontent.com/DocFrek/Doc-s-Weapon-Skin-Collection/main/screenshotstash/NADYA2.png 'NADYA2'
+[peritya1]: https://raw.githubusercontent.com/DocFrek/Doc-s-Weapon-Skin-Collection/main/screenshotstash/PERITYA1.png 'PERITYA1'
+[belka1]: https://raw.githubusercontent.com/DocFrek/Doc-s-Weapon-Skin-Collection/main/screenshotstash/BELKA1.png 'BELKA1'
+[peritya2]: https://raw.githubusercontent.com/DocFrek/Doc-s-Weapon-Skin-Collection/main/screenshotstash/PERITYA2.png 'PERITYA2'
+[belka2]: https://raw.githubusercontent.com/DocFrek/Doc-s-Weapon-Skin-Collection/main/screenshotstash/BELKA2.png 'BELKA2'
 
 ---
 #### Weapon Builds
