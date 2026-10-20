@@ -1,4 +1,4 @@
-## MY PERSONAL CAMO FOR SPT
+## MY PERSONAL WEAPON SKIN COLLECTION
 ### Overview
 #### A collection of weapon skins and stickers that I made while playing SPT.
 
@@ -12,9 +12,9 @@ These skins are tailored to fit to the showcased gun builds parallel to the buil
 There are some camo and masking that I used from other addons that specifically adds custom sticker/camo/masks (I'm sure i didn't use anything from the ones that add preset weapon skins) for Camo and Sticker mod. So, I suggest that you download all of them if possible (its all good stuff from them)
 
 For the weapon builds, I used custom attachments that are not available on vanilla SPT, as well these QOL mods:
-- [Weapon Customizer](https://forge.sp-tarkov.com/mod/1950/weapon-customizer) [For adjusting attachment position on rails]
-- [Weapon Build Master](https://forge.sp-tarkov.com/mod/2669/weapon-build-master) [For exporting the build codes]
-- [DaGrog's Vanilla Weapon Remix](https://forge.sp-tarkov.com/mod/2578/dagrogsvanillaweaponremix) [Attachment compability, mainly for that one Vector suppressor]
+- [Weapon Customizer](https://sp-mod.com/mod/1950/weapon-customizer) [For adjusting attachment position on rails]
+- [Weapon Build Master](https://sp-mod.com/mod/2669/weapon-build-master) [For exporting the build codes]
+- [DaGrog's Vanilla Weapon Remix](https://sp-mod.com/mod/2578/dagrogsvanillaweaponremix) [Attachment compability, mainly for that one Vector suppressor]
 
 Thus, I suggest that you get most of the weapon and attachments mods available on the forge. If you are in dire, write your comment and I will try pinpointing the exact mod that you need
 
@@ -25,6 +25,7 @@ Thus, I suggest that you get most of the weapon and attachments mods available o
 ![exusiaipreview](https://raw.githubusercontent.com/DocFrek/Doc-s-Weapon-Skin-Collection/main/screenshotstash/exusiaipreview.png)
 ![UMPspreview](https://raw.githubusercontent.com/DocFrek/Doc-s-Weapon-Skin-Collection/main/screenshotstash/UMPSPreview.png)
 ![rackpreview](https://raw.githubusercontent.com/DocFrek/Doc-s-Weapon-Skin-Collection/main/screenshotstash/weaponrack.png)
+
 
 ---
 
@@ -87,6 +88,39 @@ Thus, I suggest that you get most of the weapon and attachments mods available o
 **HK MP7A1 4.6x30 submachine gun**
 ![Alt text][cheeta]
 
+### MISIA
+
+**Barret M107A1 .50 BMG anti-material rifle**
+![Alt text][misia1]
+![Alt text][misia2]
+
+- Note: Not available in vanilla SPT
+
+### NADYA PANDORA
+
+**Kalashnikov RPK-16 5.45x39 light machine gun**
+![Alt text][nadya1]
+![Alt text][nadya2]
+
+### CHEYANNE
+
+**CheyTac M200 Intervention .408 CT bolt-action sniper rifle (FDE)**
+![Alt text][cheyanne]
+![Alt text][cheyanneblk]
+
+- Note: Not available in vanilla SPT
+
+### PERITYA
+
+**Kalashnikov PKP 7.62x54R infantry machine gun**
+![Alt text][peritya1]
+![Alt text][peritya2]
+
+### BELKA
+
+**HK G28 7.62x51 marksman rifle**
+![Alt text][belka1]
+![Alt text][belka2]
 
 [soppo]: https://raw.githubusercontent.com/DocFrek/Doc-s-Weapon-Skin-Collection/main/screenshotstash/SOPPO.png 'SOPPO'
 [leva]: https://raw.githubusercontent.com/DocFrek/Doc-s-Weapon-Skin-Collection/main/screenshotstash/LEVA.png 'LEVA'
@@ -99,6 +133,16 @@ Thus, I suggest that you get most of the weapon and attachments mods available o
 [voy1]: https://raw.githubusercontent.com/DocFrek/Doc-s-Weapon-Skin-Collection/main/screenshotstash/VOYMASTINA1.png 'VOYMASTINA1'
 [voy2]: https://raw.githubusercontent.com/DocFrek/Doc-s-Weapon-Skin-Collection/main/screenshotstash/VOYMASTINA2.png 'VOYMASTINA2'
 [exu]: https://raw.githubusercontent.com/DocFrek/Doc-s-Weapon-Skin-Collection/main/screenshotstash/EXUSIAI.png 'EXUSIAI'
+[cheyanne]: https://raw.githubusercontent.com/DocFrek/Doc-s-Weapon-Skin-Collection/main/screenshotstash/CHEYANNE1.png 'CHEYANNE'
+[cheyanneblk]: https://raw.githubusercontent.com/DocFrek/Doc-s-Weapon-Skin-Collection/main/screenshotstash/CHEYANNE2.png 'CHEYANNEBLK'
+[misia1]: https://raw.githubusercontent.com/DocFrek/Doc-s-Weapon-Skin-Collection/main/screenshotstash/MISIA1.png 'MISIA1'
+[misia2]: https://raw.githubusercontent.com/DocFrek/Doc-s-Weapon-Skin-Collection/main/screenshotstash/MISIA2.png 'MISIA2'
+[nadya1]: https://raw.githubusercontent.com/DocFrek/Doc-s-Weapon-Skin-Collection/main/screenshotstash/NADYA1.png 'NADYA1'
+[nadya2]: https://raw.githubusercontent.com/DocFrek/Doc-s-Weapon-Skin-Collection/main/screenshotstash/NADYA2.png 'NADYA2'
+[peritya1]: https://raw.githubusercontent.com/DocFrek/Doc-s-Weapon-Skin-Collection/main/screenshotstash/PERITYA1.png 'PERITYA1'
+[belka1]: https://raw.githubusercontent.com/DocFrek/Doc-s-Weapon-Skin-Collection/main/screenshotstash/BELKA1.png 'BELKA1'
+[peritya2]: https://raw.githubusercontent.com/DocFrek/Doc-s-Weapon-Skin-Collection/main/screenshotstash/PERITYA2.png 'PERITYA2'
+[belka2]: https://raw.githubusercontent.com/DocFrek/Doc-s-Weapon-Skin-Collection/main/screenshotstash/BELKA2.png 'BELKA2'
 
 ---
 #### Weapon Builds
