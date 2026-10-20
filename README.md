@@ -1,4 +1,4 @@
-## MY PERSONAL CAMO FOR SPT
+## Image Tabset {.tabset}
 ### Overview
 #### A collection of weapon skins and stickers that I made while playing SPT.
 
@@ -12,9 +12,9 @@ These skins are tailored to fit to the showcased gun builds parallel to the buil
 There are some camo and masking that I used from other addons that specifically adds custom sticker/camo/masks (I'm sure i didn't use anything from the ones that add preset weapon skins) for Camo and Sticker mod. So, I suggest that you download all of them if possible (its all good stuff from them)
 
 For the weapon builds, I used custom attachments that are not available on vanilla SPT, as well these QOL mods:
-- [Weapon Customizer](https://forge.sp-tarkov.com/mod/1950/weapon-customizer) [For adjusting attachment position on rails]
-- [Weapon Build Master](https://forge.sp-tarkov.com/mod/2669/weapon-build-master) [For exporting the build codes]
-- [DaGrog's Vanilla Weapon Remix](https://forge.sp-tarkov.com/mod/2578/dagrogsvanillaweaponremix) [Attachment compability, mainly for that one Vector suppressor]
+- [Weapon Customizer](https://sp-mod.com/mod/1950/weapon-customizer) [For adjusting attachment position on rails]
+- [Weapon Build Master](https://sp-mod.com/mod/2669/weapon-build-master) [For exporting the build codes]
+- [DaGrog's Vanilla Weapon Remix](https://sp-mod.com/mod/2578/dagrogsvanillaweaponremix) [Attachment compability, mainly for that one Vector suppressor]
 
 Thus, I suggest that you get most of the weapon and attachments mods available on the forge. If you are in dire, write your comment and I will try pinpointing the exact mod that you need
 
@@ -26,9 +26,13 @@ Thus, I suggest that you get most of the weapon and attachments mods available o
 ![UMPspreview](https://raw.githubusercontent.com/DocFrek/Doc-s-Weapon-Skin-Collection/main/screenshotstash/UMPSPreview.png)
 ![rackpreview](https://raw.githubusercontent.com/DocFrek/Doc-s-Weapon-Skin-Collection/main/screenshotstash/weaponrack.png)
 
+{.endtabset}
+
 ---
 
 ## The Skins
+
+## Image Tabset {.tabset}
 
 ### SOPPO
 **Colt M4A1 5.56x45 assault rifle (SOPMOD II)**
@@ -142,6 +146,8 @@ Thus, I suggest that you get most of the weapon and attachments mods available o
 [belka1]: https://raw.githubusercontent.com/DocFrek/Doc-s-Weapon-Skin-Collection/main/screenshotstash/BELKA1.png 'BELKA1'
 [peritya2]: https://raw.githubusercontent.com/DocFrek/Doc-s-Weapon-Skin-Collection/main/screenshotstash/PERITYA2.png 'PERITYA2'
 [belka2]: https://raw.githubusercontent.com/DocFrek/Doc-s-Weapon-Skin-Collection/main/screenshotstash/BELKA2.png 'BELKA2'
+
+{.endtabset}
 
 ---
 #### Weapon Builds
