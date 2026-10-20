@@ -1,0 +1,1010 @@
+[
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1792515798504,
+    "Name": "scopeerase",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.0400044546,
+      "y": -0.3662204,
+      "z": 0.0615746342
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.1287231,
+      "y": 0.07998143,
+      "z": 0.0273471
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Erase",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1792515798504,
+    "Name": "scopeerase",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.0398302078,
+      "y": -0.5218519,
+      "z": 0.08249586
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.16802974,
+      "y": 0.07988841,
+      "z": 0.07470273
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Erase",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1792515798504,
+    "Name": "",
+    "Texture": "stickers/DocFrek/G28 Belka/belkahii.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.0400045551,
+      "y": -0.391961873,
+      "z": -0.1153727
+    },
+    "LocalEulerAngles": {
+      "x": 352.141083,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.0544556677,
+      "y": 0.04,
+      "z": 0.07399252
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1792515798504,
+    "Name": "magerase",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.0400052629,
+      "y": -0.395909578,
+      "z": -0.152131662
+    },
+    "LocalEulerAngles": {
+      "x": 354.159851,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.09877059,
+      "y": 0.08004887,
+      "z": 0.149700224
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Erase",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1792515798504,
+    "Name": "bipoderase",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.04000221,
+      "y": -0.7227282,
+      "z": -0.07663141
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.2,
+      "y": 0.0796273053,
+      "z": 0.07762692
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Erase",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1792515798504,
+    "Name": "foregriperase",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.040003635,
+      "y": -0.5451112,
+      "z": -0.0958444551
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.0486976728,
+      "y": 0.04,
+      "z": 0.149170727
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Erase",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1792515798504,
+    "Name": "baseblendright",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.104166679,
+      "y": 0.426035523,
+      "z": 0.6627451,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": 0.0398459844,
+      "y": -0.360812783,
+      "z": -0.0265038069
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -90.0
+    },
+    "LocalScale": {
+      "x": 0.177286744,
+      "y": 0.07948177,
+      "z": 0.127427369
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1792515798504,
+    "Name": "belkamain",
+    "Texture": "stickers/DocFrek/G28 Belka/belkahyperdrive.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.99999994,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.0539932,
+      "y": -0.3852167,
+      "z": -0.0237082019
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.215311512,
+      "y": 0.108010322,
+      "z": 0.157173216
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Disabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1792515798504,
+    "Name": "baseblend",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0899470747,
+      "y": 0.443662,
+      "z": 0.5568628,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.0400261544,
+      "y": -0.6665003,
+      "z": 0.0072217267
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.348152578,
+      "y": 0.08045779,
+      "z": 0.0744278356
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1792515798504,
+    "Name": "orangedots",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.6687339,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.07458144,
+      "y": 0.862204731,
+      "z": 0.996078432,
+      "w": 1.0
+    },
+    "Mask": "masks/DocFrek/dotsfillbottom.png",
+    "MaskUV": {
+      "x": 0.03409966,
+      "y": -0.281433076,
+      "z": 2.40731287,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.0400090963,
+      "y": -0.6435275,
+      "z": 0.022428425
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -630.0
+    },
+    "LocalScale": {
+      "x": 0.393149853,
+      "y": 0.08018637,
+      "z": -0.103692271
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1792515798504,
+    "Name": "orangedots",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.6687339,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.07458144,
+      "y": 0.862204731,
+      "z": 0.996078432,
+      "w": 1.0
+    },
+    "Mask": "masks/DocFrek/dotsfillbottom.png",
+    "MaskUV": {
+      "x": 0.03409966,
+      "y": -0.281433076,
+      "z": 2.40731287,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.0400318466,
+      "y": -0.643492639,
+      "z": -0.0118721994
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -630.0
+    },
+    "LocalScale": {
+      "x": 0.393149853,
+      "y": 0.08018637,
+      "z": 0.103692271
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1792515798504,
+    "Name": "baseblend",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.104166679,
+      "y": 0.426035523,
+      "z": 0.6627451,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.0400491022,
+      "y": -0.241069555,
+      "z": -0.0560305528
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.07324333,
+      "y": 0.08045779,
+      "z": 0.21717684
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1792515798504,
+    "Name": "baseblend",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0899470747,
+      "y": 0.443662,
+      "z": 0.5568628,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.0400695167,
+      "y": -0.387254357,
+      "z": 0.0450253971
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.221715271,
+      "y": 0.08045779,
+      "z": 0.020885976
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1792515798504,
+    "Name": "orangebvlend",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.07458144,
+      "y": 0.862204731,
+      "z": 0.996078432,
+      "w": 1.0
+    },
+    "Mask": "masks/7Bpencil/799420719ed4558e1f7cf619e740e5a7.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.04000693,
+      "y": -0.262126535,
+      "z": 0.00144244649
+    },
+    "LocalEulerAngles": {
+      "x": 18.3826523,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.08525276,
+      "y": 0.08032895,
+      "z": 0.146155015
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1792515798504,
+    "Name": "orangebvlend",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.07458144,
+      "y": 0.862204731,
+      "z": 0.996078432,
+      "w": 1.0
+    },
+    "Mask": "masks/7Bpencil/799420719ed4558e1f7cf619e740e5a7.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.04001105,
+      "y": -0.2227712,
+      "z": -0.00139973394
+    },
+    "LocalEulerAngles": {
+      "x": 11.08891,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.0616044141,
+      "y": 0.08032895,
+      "z": 0.105612926
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1792515798504,
+    "Name": "orangebvlend",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.07458144,
+      "y": 0.862204731,
+      "z": 0.996078432,
+      "w": 1.0
+    },
+    "Mask": "masks/7Bpencil/799420719ed4558e1f7cf619e740e5a7.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.0400068276,
+      "y": -0.276034266,
+      "z": -0.06848153
+    },
+    "LocalEulerAngles": {
+      "x": 301.518066,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.08525276,
+      "y": 0.08049808,
+      "z": 0.146155015
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1792515798504,
+    "Name": "orangebvlend",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.07458144,
+      "y": 0.862204731,
+      "z": 0.996078432,
+      "w": 1.0
+    },
+    "Mask": "masks/7Bpencil/799420719ed4558e1f7cf619e740e5a7.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.0400135219,
+      "y": -0.242433,
+      "z": -0.103322513
+    },
+    "LocalEulerAngles": {
+      "x": 20.4560318,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.0553581566,
+      "y": 0.08049808,
+      "z": 0.09490452
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1792515798504,
+    "Name": "orangebvlend",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.07458144,
+      "y": 0.862204731,
+      "z": 0.996078432,
+      "w": 1.0
+    },
+    "Mask": "masks/7Bpencil/d5688321ca12f437dac4053f8cdb81b4.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.0400250033,
+      "y": -0.05601343,
+      "z": -0.0283518881
+    },
+    "LocalEulerAngles": {
+      "x": 359.208771,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.248483047,
+      "y": 0.08049808,
+      "z": 0.248483047
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1792515798504,
+    "Name": "blendoraongefront",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.07458144,
+      "y": 0.862204731,
+      "z": 0.996078432,
+      "w": 1.0
+    },
+    "Mask": "masks/7Bpencil/799420719ed4558e1f7cf619e740e5a7.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.04000556,
+      "y": -0.475717068,
+      "z": -0.004362967
+    },
+    "LocalEulerAngles": {
+      "x": 21.743536,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.111609057,
+      "y": 0.04,
+      "z": 0.148868933
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1792515798504,
+    "Name": "",
+    "Texture": "stickers/DocFrek/G28 Belka/belkaswampdays.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.0384414122,
+      "y": -0.006890506,
+      "z": 0.012647301
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 17.40998,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.06782942,
+      "y": 0.04,
+      "z": 0.0479523838
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": true,
+    "MirrorMode": "Disabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1792515798504,
+    "Name": "",
+    "Texture": "stickers/DocFrek/G28 Belka/belkapeace.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": 0.0400234126,
+      "y": -0.359479934,
+      "z": -0.0187370516
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 270.0
+    },
+    "LocalScale": {
+      "x": 0.0934956148,
+      "y": 0.04,
+      "z": 0.132315427
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": true,
+    "MirrorMode": "Disabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  }
+]

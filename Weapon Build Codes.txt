@@ -10,14 +10,6 @@ Colt M4A1 "SOPMOD II"
 SPT-ProjectSpark-WBM-VEepzUvcLb0gi0VnAP//VdS5lkvcLR1Oi0VuAQABXRNAs9etGgtSaC7XAgACVdNV5kvcLZYvi0VpAwADVw/WwtJyC8ZFi0V/BAMBVdNjLkvcLZcvi0VpBQMCVEo4Y0vcLVg4i0VoBgUBVuqNL9JyC3xpi0VwBwUCXBeASy4iFhUgBsAvCAcByrzGk5YyE4u7dAwPCQMDYmvs+VgsPjGTELg3CgkCQ/9DG2JFLpxuvCTHCwkIWIIm3SRZd2etM/eJDAsBXBeAMS4iFgK2bMGJDQMEVkm+iEvcLXk4i0V3DgAEWuMMmlrPxAj7E5oDDw4BVdRP0UvcLZYvi0VuEAAF
 DocFrek shared a weapon build code with you: Colt M4A1 5.56x45 assault rifle
 
-CheyTac M200 Intervention "Cheyanne"
-SPT-ProjectSpark-WBM-aP16YfK42WuzEZsZAP//V69IhyRZdx8LLr8RAQABaP1cPdTwzcTK2fGcAgACaP1WQ1uBkd04fan/AwADaP1gn9dGuIYxIR9qBAAEaP1i00OhQrFL4MPsBQQBaP10wz5KndysBB42BgAFaP15iumM/VSRUqYqBwYBYXE8xNjjEG2YBsEJCAAGWqZr5uW1sCFOUG6XCQgBYWBdiP+m5QKsXn7rCggC
-DocFrek shared a weapon build code with you: CheyTac M200 Intervention .408 CT bolt-action sniper rifle (FDE)
-
-KBP VSK-94 "Nikketa"
-SPT-ProjectSpark-WBM-ZF4Mazs4Ht53DhzJAP//ZFDsLn2nEz5aCcqWAQABZFJRnj1SFWYkAB/VAgACXII0Ly4iFkTzHAYOAwADV/OlriRZdysOC/GeBAMBZFEjAT1SFWYkAB/RBQAEZFJ6On2nEz5aCcqZBgUBV6NFnyRZd3ZKAfcDBwYBYnI3DuQBPF1+MfQYCAcBaIt5tesjTHXZAOBQCQUCX2NA08pEIhL0BH6yCgkB
-DocFrek shared a weapon build code with you: KBP VSK-94 9x39 rifle
-
 KRISS Vector 9x19mm "Vector: AgentVIVI" 
 SPT-ProjectSpark-WBM-X8Py1ZALHVCRUx5XAP//WnrS6FHfugAWFTaSAQABX7ZWd0fOY3NOP6HcAgACX7ZWSUfOY3NOP6HaAwADVw/WwtJyC8ZFi0V/BAAEX7ZVt0jHEWkOOo1aBQAGVkm+iEvcLXk4i0V3BgUBXRNey9etGiHBdlQuBwYBX7vDg9XLiBpzYxlKCAAHWjKgZMSiggB0HiLeCQgBX7uXggfoqX0fCQLTCgAIWfxI4Ib3dGOxEYOSCwoB
 Doc shared a weapon build code with you: TDI KRISS Vector Gen.2 9x19 submachine gun
@@ -45,3 +37,28 @@ DocFrek shared a weapon build code with you: HK UMP .40 S&W submachine gun
 MP7A1 "Cheeta"
 SPT-ProjectSpark-WBM-W6Jjg9Q1HgAzTJPZAP//W6JlhtQ1HkT4JLNAAQABW6JqzdQ1HgA1YpCOAgACW6Jq6NQ1HgA2f5vbAwIBW6JrAdQ1HgCFMlpRBAADW6JrF9Q1HgA2f5vdBQAEWNOdPYb3dEW7eUrnBgAFWNOZ5Ib3dELgAW/nBwYBW88CE9Q1HgCFMnwXCAAJ
 DocFrek shared a weapon build code with you: HK MP7A1 4.6x30 submachine gun
+
+1.2.0
+----------------------------------------
+CheyTac M200 Intervention "Cheyanne"
+SPT-ProjectSpark-WBM-aP16YfK42WuzEZsZAP//V69IhyRZdx8LLr8RAQABaP1cPdTwzcTK2fGcAgACaP1WQ1uBkd04fan/AwADaP1gn9dGuIYxIR9qBAAEaP1i00OhQrFL4MPsBQQBaP10wz5KndysBB42BgAFaP15iumM/VSRUqYqBwYBYXE8xNjjEG2YBsEJCAAGWqZr5uW1sCFOUG6XCQgBYWBdiP+m5QKsXn7rCggC
+DocFrek shared a weapon build code with you: CheyTac M200 Intervention .408 CT bolt-action sniper rifle (FDE)
+Black:
+SPT-ProjectSpark-WBM-aP1P6rh9d6Wq9r9kAP//VdS5lkvcLR1Oi0VuAQABaP1a+/eeupYRac2SAgACaP1WRpIqeKZ0c9O0AwADaP1fkkf7UQAwtn6cBAAEaP1i00OhQrFL4MPsBQQBaP1z3UsuekDMqWm0BgAFaP15oJvZtluRDttKBwYBaP1ydnXtfkIqjonCCAYCWqZscuW1sAAWMnyTCQAGWqZr5uW1sCFOUG6XCgkBYWBdiP+m5QKsXn7rCwkC
+DocFrek shared a weapon build code with you: CheyTac M200 Intervention .408 CT bolt-action sniper rifle
+
+Barret M107A1 "Misia"
+SPT-ProjectSpark-WBM-aTdC5+qzr52JNJQQAP//aTdIX7j+6/iv9huFAQABaTdIXOVDWUaSqrZ3AgAFZ9QY0P+5ENIfBHIOAwAGaTdHh5qevasxoe3bBAAHaTtQXA/ZEgk2Dr+gBQQBVdS5lkvcLR1Oi0VuBgAIaTdF2Z7zVhD9O/StBwAJaMqsx5M5kGAcB/R5CAAKWjfLEMSigjKac7TnCQgBaMqs5fQqRHbPC+K0CggC
+DarkMessiah shared a weapon build code with you: Barrett M107A1 .50 BMG anti-material rifle
+
+RPK-16 "Nadya Pandora"
+SPT-ProjectSpark-WBM-W+7Q9Q24NAAcBisSAP//W+7I6g24NAAab52/AQABW+7JGg24NAAZYZQtAgACYYuWQ1JhMXZQJas1AwIBaMqtf5M5kGAcB/R8BAMBYYuWcdFNbVq4ecXqBQMCW+7JRQ24NACXAIT9BgICW/P1nw24NAAab6BgBwYBW+1iXA24NAAcBilGCAADW+7Isg24NAAZYZQqCQAFW+7Iwg24NAAdLEZcCgkBW+7D4w24NAAZYZQkCwAGW+7LuA24NAAdLEZeDAsBW+7LuA24NAAdLEZeDQsCXBvFry4iFgK0EpSbDgsEW+7Cgg24NAAbCVQmDwAHW+7DQg24NAAbCVQpEA8B
+DarkMessiah shared a weapon build code with you: RPK-16 5.45x39 light machine gun
+
+PKP Pecheneg "Peritya"
+SPT-ProjectSpark-WBM-ZMo9OVT8ZX4jBSnMAP//VkmuSkvcLRsri0WIAQABZGNyUYYQxA/CAgToAgACZJLjqX3310kQDinuAwADZGOamquG+P1DABRsBAAEahgsD64XXgN6C+QMBQAGXBzUby4iFkvvXP7bBgUDaM6SxvnrRXQXD7rOBwAHaFlBHaeskfLkCI3kCAcB
+DarkMessiah shared a weapon build code with you: Kalashnikov PKP 7.62x54R infantry machine gun
+
+G28 "Belka"
+SPT-ProjectSpark-WBM-YXasplAiTyBMHaP7AP//YZPc0PjuflLkIQooAQABYXExpFaMEg/dKUgtAgACYXFTAWx4DB5xDJovAwADYXFV7lAiTyBMHaPNBAMBYXFefmcIXkXvFAszBQQBYXE6j9ksRzx3AhSkBgAEYXE8xNjjEG2YBsEJBwYBYXFO7CkNJU9eay/8CAcBYXFLJGcIXkXvFAssCQcCWNOZ5Ib3dELgAW/nCgkBYXAr6fqhJy5DFSLDCwYCYXEzCNksRzx3AhSgDAsBYXE2fhy1WWH6D9s2DQwBYXAvG2cIXkXvFAsmDgsCYXAwAdksRzx3AhSXDwYDYZOGN5+wxmXVSQ2+EA8BaQRYyMj3JmSLEawZEQ8GW7IOSdQ1HjusEhLeEgYEYXAtimcIXkXvFAskEwAF
+DarkMessiah shared a weapon build code with you: HK G28 7.62x51 marksman rifle

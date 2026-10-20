@@ -1,0 +1,914 @@
+[
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1792352926370,
+    "Name": "",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.04000383,
+      "y": -0.3590326,
+      "z": -0.09037627
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.0235241652,
+      "y": 0.04,
+      "z": 0.0565320961
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": true,
+    "MirrorMode": "Disabled",
+    "PaintMode": "Erase",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1792352926370,
+    "Name": "atterase",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.0400062278,
+      "y": -0.7715676,
+      "z": -0.0456247926
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.392698,
+      "y": 0.04,
+      "z": 0.105410874
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Erase",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1792352926370,
+    "Name": "rounddots",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "masks/DocFrek/dotsfillbottom.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.0400118828,
+      "y": -0.4270198,
+      "z": -0.05867756
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.183723986,
+      "y": 0.04,
+      "z": 0.183723986
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": true,
+    "MirrorMode": "Disabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1792352926370,
+    "Name": "SCOPE",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "masks/DocFrek/scopecrossmask.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.0487275533,
+      "y": -0.4723028,
+      "z": 0.0108876992
+    },
+    "LocalEulerAngles": {
+      "x": 22.4319324,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.180201024,
+      "y": 0.04,
+      "z": 0.180201024
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": true,
+    "MirrorMode": "Disabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1792352926370,
+    "Name": "",
+    "Texture": "stickers/DocFrek/Cheyenne M200 Intervention/cheyenneliftback.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.0400135443,
+      "y": -0.422953576,
+      "z": -0.0200259034
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.314982563,
+      "y": 0.04,
+      "z": 0.21541959
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Disabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1792352926370,
+    "Name": "",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.0400124565,
+      "y": -0.4761176,
+      "z": -0.00760360574
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.131098047,
+      "y": 0.04,
+      "z": 0.131098047
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": true,
+    "MirrorMode": "Disabled",
+    "PaintMode": "Erase",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1792352926370,
+    "Name": "",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.0400102064,
+      "y": -0.1456986,
+      "z": 0.0147400387
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.19417128,
+      "y": 0.04,
+      "z": 0.152833879
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": true,
+    "MirrorMode": "Disabled",
+    "PaintMode": "Erase",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1792352926370,
+    "Name": "",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.0400189757,
+      "y": -0.140138969,
+      "z": -0.113004848
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.115411289,
+      "y": 0.04,
+      "z": 0.09628712
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": true,
+    "MirrorMode": "Disabled",
+    "PaintMode": "Erase",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1792352926370,
+    "Name": "Xeses",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "masks/DocFrek/xdiagonals.png",
+    "MaskUV": {
+      "x": 0.02127825,
+      "y": 0.00389266154,
+      "z": 1.999006,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.0400461927,
+      "y": -0.305621356,
+      "z": -0.0596783534
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.466884553,
+      "y": 0.04,
+      "z": 0.242696062
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": true,
+    "MirrorMode": "Disabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1792352926370,
+    "Name": "",
+    "Texture": "stickers/DocFrek/Cheyenne M200 Intervention/cheyenneliftback.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.0400135443,
+      "y": -0.422953576,
+      "z": -0.0200259034
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.314982563,
+      "y": 0.04,
+      "z": 0.21541959
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": true,
+    "MirrorMode": "Disabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1792352926370,
+    "Name": "scoperounddots",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "masks/DocFrek/rounddotsdiagonal.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.0400053933,
+      "y": -0.603781,
+      "z": 0.110641837
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.0807598755,
+      "y": 0.04,
+      "z": 0.0807598755
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1792352926370,
+    "Name": "scopecheyyene",
+    "Texture": "stickers/DocFrek/Cheyenne M200 Intervention/cheyennebalance.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.04000239,
+      "y": -0.6019388,
+      "z": 0.116179436
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.09673834,
+      "y": 0.04,
+      "z": 0.0569049045
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1792352926370,
+    "Name": "",
+    "Texture": "stickers/DocFrek/Cheyenne M200 Intervention/sniperlifecheyanne.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": 0.04001996,
+      "y": -0.28272897,
+      "z": 0.108557634
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 270.0
+    },
+    "LocalScale": {
+      "x": 0.07049622,
+      "y": 0.0399278,
+      "z": 0.0527853444
+    },
+    "MaxAngle": 0.3,
+    "IsVisible": true,
+    "MirrorMode": "EnabledNoFlip",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1792352926370,
+    "Name": "atterasescope",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.0400043726,
+      "y": -0.449191,
+      "z": 0.122482032
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.392698,
+      "y": 0.04,
+      "z": 0.105410874
+    },
+    "MaxAngle": 0.399999976,
+    "IsVisible": true,
+    "MirrorMode": "Disabled",
+    "PaintMode": "Erase",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1792352926370,
+    "Name": "",
+    "Texture": "stickers/DocFrek/Cheyenne M200 Intervention/cheyennenyanko.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.0488678776,
+      "y": -0.0130366785,
+      "z": 0.04509877
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 30.1300163,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.0720549151,
+      "y": 0.04,
+      "z": 0.09612013
+    },
+    "MaxAngle": 0.295000017,
+    "IsVisible": true,
+    "MirrorMode": "Disabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1792352926370,
+    "Name": "",
+    "Texture": "stickers/DocFrek/Cheyenne M200 Intervention/cheyennesit.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.0015792459,
+      "y": -0.2254906,
+      "z": 0.03406013
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "LocalScale": {
+      "x": 0.06536095,
+      "y": 0.04,
+      "z": 0.0462261774
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Disabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1792352926370,
+    "Name": "rectangledots",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "masks/DocFrek/dotsdiagonalsquaredbasemid.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.039995186,
+      "y": -0.7765771,
+      "z": 0.03079238
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.276765525,
+      "y": 0.04,
+      "z": 0.171526372
+    },
+    "MaxAngle": 0.03,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1792352926370,
+    "Name": "scopeleftside",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "masks/DocFrek/scopecrossmask.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": 0.0400112569,
+      "y": -0.4431661,
+      "z": -0.0446652472
+    },
+    "LocalEulerAngles": {
+      "x": 25.4592934,
+      "y": 0.0,
+      "z": 270.0
+    },
+    "LocalScale": {
+      "x": 0.129047036,
+      "y": 0.04,
+      "z": 0.129047036
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": true,
+    "MirrorMode": "Disabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1792352926370,
+    "Name": "",
+    "Texture": "stickers/DocFrek/Cheyenne M200 Intervention/cheyannelegbipod.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": 0.0400210321,
+      "y": -0.4407643,
+      "z": -0.0543761
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 270.0
+    },
+    "LocalScale": {
+      "x": 0.102390587,
+      "y": 0.04,
+      "z": 0.153585866
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": true,
+    "MirrorMode": "Disabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  }
+]

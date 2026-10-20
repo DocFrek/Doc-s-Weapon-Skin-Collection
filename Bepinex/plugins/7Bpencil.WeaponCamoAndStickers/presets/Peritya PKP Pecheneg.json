@@ -1,0 +1,914 @@
+[
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1792441515146,
+    "Name": "boltcatcherase",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": 0.05084605,
+      "y": -0.44583717,
+      "z": 3.933166E-09
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "LocalScale": {
+      "x": 0.05497037,
+      "y": 0.0298849456,
+      "z": 0.05497037
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Disabled",
+    "PaintMode": "Erase",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1792441515146,
+    "Name": "boltcatcherase",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": 0.0495569557,
+      "y": -0.471882761,
+      "z": -0.01721808
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "LocalScale": {
+      "x": 0.05497037,
+      "y": 0.0298849456,
+      "z": 0.07279957
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Disabled",
+    "PaintMode": "Erase",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1792441515146,
+    "Name": "boltcatcherase",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": 0.0495584831,
+      "y": -0.5225951,
+      "z": -0.0161077939
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -180.0
+    },
+    "LocalScale": {
+      "x": 0.05497037,
+      "y": 0.0298849456,
+      "z": 0.05497037
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Disabled",
+    "PaintMode": "Erase",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1792441515146,
+    "Name": "boltcatcherase",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": 0.04957742,
+      "y": -0.558207333,
+      "z": -0.004744972
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -180.0
+    },
+    "LocalScale": {
+      "x": 0.05497037,
+      "y": 0.0298849456,
+      "z": 0.05497037
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Disabled",
+    "PaintMode": "Erase",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1792441381406,
+    "Name": "",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.0399954,
+      "y": -1.10002482,
+      "z": 0.0222844146
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.0734946,
+      "y": 0.04,
+      "z": 0.0555287674
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Erase",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1792441381406,
+    "Name": "",
+    "Texture": "stickers/DocFrek/PKP Pecheneg Peritya/nyanperitya.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0316080451,
+      "y": 9.648927E-06,
+      "z": 0.853801548,
+      "w": 0.853801548
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.000881854,
+      "y": -0.59295845,
+      "z": -0.17039746
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -180.0
+    },
+    "LocalScale": {
+      "x": 0.22529161,
+      "y": 0.04,
+      "z": 0.187743008
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": true,
+    "MirrorMode": "Disabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1792441381406,
+    "Name": "foregriperase",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.0400045365,
+      "y": -0.6794924,
+      "z": -0.128093764
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.0509360433,
+      "y": 0.07963829,
+      "z": 0.121999376
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Erase",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1792441381406,
+    "Name": "magperitya",
+    "Texture": "stickers/DocFrek/PKP Pecheneg Peritya/perityalovenya.webm",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.0306537859,
+      "y": -0.430648863,
+      "z": -0.1738061
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -360.0
+    },
+    "LocalScale": {
+      "x": 0.179243669,
+      "y": 0.04,
+      "z": 0.208818868
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Disabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1792441381406,
+    "Name": "magerase",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": 0.00153637142,
+      "y": -0.4540291,
+      "z": -0.161526531
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "LocalScale": {
+      "x": 0.2712797,
+      "y": 0.13634643,
+      "z": 0.2
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Disabled",
+    "PaintMode": "Erase",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1792441381406,
+    "Name": "magerase",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": 0.00153638073,
+      "y": -0.5829068,
+      "z": -0.161528885
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -180.0
+    },
+    "LocalScale": {
+      "x": 0.2712797,
+      "y": 0.13634643,
+      "z": 0.2
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Disabled",
+    "PaintMode": "Erase",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1792441381406,
+    "Name": "peritmain",
+    "Texture": "stickers/DocFrek/PKP Pecheneg Peritya/combatcarperitya.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.04003645,
+      "y": -0.468140632,
+      "z": -0.0600292459
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.3639799,
+      "y": 0.07917453,
+      "z": 0.2047387
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1792441381406,
+    "Name": "basered",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.9876543,
+      "y": 0.9418605,
+      "z": 0.3372549,
+      "w": 1.0
+    },
+    "Mask": "masks/7Bpencil/62f6b567ebe567312465963566c4fe74.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.03999948,
+      "y": -0.762044966,
+      "z": -0.0418036357
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.317756265,
+      "y": 0.080214344,
+      "z": 0.2
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1792441381406,
+    "Name": "dotsmuzzle",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.463414669,
+      "w": 1.0
+    },
+    "Mask": "masks/DocFrek/dotsfillbottom.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.04003067,
+      "y": -1.04314566,
+      "z": -0.004412149
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.264513969,
+      "y": 0.04,
+      "z": 0.125569269
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1792441381406,
+    "Name": "orangelayer",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0108225113,
+      "y": 0.905882359,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "masks/7Bpencil/62f6b567ebe567312465963566c4fe74.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.04000778,
+      "y": -0.777154148,
+      "z": -0.0271020886
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.281088233,
+      "y": 0.07959571,
+      "z": 0.176920652
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1792441381406,
+    "Name": "yellowlayer",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.114285715,
+      "y": 0.8267717,
+      "z": 0.996078432,
+      "w": 1.0
+    },
+    "Mask": "masks/7Bpencil/62f6b567ebe567312465963566c4fe74.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.0400094353,
+      "y": -0.8144661,
+      "z": -0.0273660775
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.2504671,
+      "y": 0.07959571,
+      "z": 0.0559540465
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1792441381406,
+    "Name": "whitelayer",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.156862751,
+      "y": 0.266666651,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "masks/7Bpencil/62f6b567ebe567312465963566c4fe74.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.0400100723,
+      "y": -0.8439888,
+      "z": -0.02561227
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.131700337,
+      "y": 0.07959571,
+      "z": 0.0399506465
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1792441381406,
+    "Name": "gripblend",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0644405261,
+      "y": 0.7878386,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "masks/7Bpencil/7287cec2bec15fdae3eed86e90dcc4fa.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.0399960652,
+      "y": -0.2928862,
+      "z": -0.126993224
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.148670837,
+      "y": 0.08066102,
+      "z": 0.148670837
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1792441381406,
+    "Name": "stockblend",
+    "Texture": "builtin/camos/default.png",
+    "TextureUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.518292665,
+      "w": 1.0
+    },
+    "Mask": "masks/7Bpencil/799420719ed4558e1f7cf619e740e5a7.png",
+    "MaskUV": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.0400012173,
+      "y": -0.248331487,
+      "z": -0.0181280132
+    },
+    "LocalEulerAngles": {
+      "x": 344.408,
+      "y": 0.0,
+      "z": 90.0
+    },
+    "LocalScale": {
+      "x": 0.1719852,
+      "y": 0.07875291,
+      "z": 0.1719852
+    },
+    "MaxAngle": 0.0,
+    "IsVisible": true,
+    "MirrorMode": "Enabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  },
+  {
+    "SchemaVersion": 9,
+    "SaveTime": 1792441381406,
+    "Name": "scopeface",
+    "Texture": "stickers/DocFrek/PKP Pecheneg Peritya/pixelperitya.png",
+    "TextureUV": {
+      "x": -0.00013216502,
+      "y": 0.231862277,
+      "z": 1.0,
+      "w": 0.6647496
+    },
+    "TextureAngle": 0.0,
+    "ColorHSVA": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 1.0
+    },
+    "Mask": "builtin/masks/default.png",
+    "MaskUV": {
+      "x": 0.000127504274,
+      "y": -0.166610062,
+      "z": 1.0,
+      "w": 0.9576444
+    },
+    "MaskAngle": 0.0,
+    "Bone": "",
+    "LocalPosition": {
+      "x": -0.000878135266,
+      "y": -0.314245641,
+      "z": 0.07328814
+    },
+    "LocalEulerAngles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -360.0
+    },
+    "LocalScale": {
+      "x": 0.03358923,
+      "y": 0.04,
+      "z": 0.02801193
+    },
+    "MaxAngle": 0.4,
+    "IsVisible": true,
+    "MirrorMode": "Disabled",
+    "PaintMode": "Paint",
+    "StencilType": 2
+  }
+]
