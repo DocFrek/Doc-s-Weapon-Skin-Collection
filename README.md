@@ -93,6 +93,8 @@ Thus, I suggest that you get most of the weapon and attachments mods available o
 ![Alt text][misia1]
 ![Alt text][misia2]
 
+- Note: Not available in vanilla SPT
+
 ### NADYA PANDORA
 
 **Kalashnikov RPK-16 5.45x39 light machine gun**
@@ -104,6 +106,8 @@ Thus, I suggest that you get most of the weapon and attachments mods available o
 **CheyTac M200 Intervention .408 CT bolt-action sniper rifle (FDE)**
 ![Alt text][cheyanne]
 ![Alt text][cheyanneblk]
+
+- Note: Not available in vanilla SPT
 
 ### PERITYA
 
@@ -133,7 +137,7 @@ Thus, I suggest that you get most of the weapon and attachments mods available o
 [misia1]: https://raw.githubusercontent.com/DocFrek/Doc-s-Weapon-Skin-Collection/main/screenshotstash/MISIA1.png 'MISIA1'
 [misia2]: https://raw.githubusercontent.com/DocFrek/Doc-s-Weapon-Skin-Collection/main/screenshotstash/MISIA2.png 'MISIA2'
 [nadya1]: https://raw.githubusercontent.com/DocFrek/Doc-s-Weapon-Skin-Collection/main/screenshotstash/NADYA1.png 'NADYA1'
-[nadya1]: https://raw.githubusercontent.com/DocFrek/Doc-s-Weapon-Skin-Collection/main/screenshotstash/NADYA2.png 'NADYA2'
+[nadya2]: https://raw.githubusercontent.com/DocFrek/Doc-s-Weapon-Skin-Collection/main/screenshotstash/NADYA2.png 'NADYA2'
 [peritya1]: https://raw.githubusercontent.com/DocFrek/Doc-s-Weapon-Skin-Collection/main/screenshotstash/PERITYA1.png 'PERITYA1'
 [belka1]: https://raw.githubusercontent.com/DocFrek/Doc-s-Weapon-Skin-Collection/main/screenshotstash/BELKA1.png 'BELKA1'
 [peritya2]: https://raw.githubusercontent.com/DocFrek/Doc-s-Weapon-Skin-Collection/main/screenshotstash/PERITYA2.png 'PERITYA2'
